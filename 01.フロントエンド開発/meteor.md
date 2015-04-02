@@ -3,8 +3,6 @@ meteor
 
 参考サイト
 ------
-[Code Grid ECMAScript 6の新機能](https://www.meteor.com/ "")
+[METEOR](https://www.meteor.com/ "")
+[JavaScript超初心者向け Meteor メモ (1)](http://qiita.com/tadfmac/items/a63bb85e5cfb12bbbfc8 "")
 
-
-はまりポイント
-------
