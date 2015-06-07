@@ -15,6 +15,8 @@ react
 
 [React.js + Webpack + ContainerJSでTODOリストを作ってみた](http://unageanu.hatenablog.com/entry/2015/03/18/072511 "")
 
+[Reactでちょっとしたサービスを作りました](http://lealog.hateblo.jp/entry/2015/05/06/002643 "")
+
 
 はまりポイント
 -----
